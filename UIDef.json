@@ -1,0 +1,11 @@
+{
+  "model": {
+      "fields": [{
+          "id": "myID",
+          "type": "text",
+          "title": "My Title",
+          "defaultValue": "This is the default value"
+      }],
+      "groups": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "publish",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: publish",
+			"detail": "webpack --mode=production && singular deploywidget .",
+		}
+	]
+}
