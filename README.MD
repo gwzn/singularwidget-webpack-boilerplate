@@ -20,7 +20,7 @@ npm install
 
 - Note the build task for VSCode is defined in the .vscode directory is an **alias** for the ```'publish'``` task defined in the NPM ```package.json``` file.
 
-- Since this is a boilerplate repository, for a new widget it is probably desirable to create a new repository using Github's template copy or disconnect from  ```origin``` before making any commits:  ```git remote rm origin```
+- Since this is a boilerplate repository for a new widget it is probably desirable to create a new repository using Github's "Use this template" or disconnect from  ```origin``` before making any commits:  ```git remote rm origin```
 
 \
 This project is in very early development currently and should be considered to be in 'alpha' stage of development. Please feel free to provide feedback via [Github Issues](https://github.com/gwzn/singularwidget-webpack-boilerplate/issues).

@@ -47,7 +47,7 @@ var config = {
 
 module.exports = (env, argv) => {
 
-  if ((argv.mode === 'development')||(argv.mode === '')) {
+  if ((argv.mode === 'development')||(argv.mode == null)) {
     config.mode = 'development';
     config.devtool = 'inline-source-map';
   }
