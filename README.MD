@@ -1,6 +1,6 @@
 # Singular Widget Development (Node+Webpack+VSCode) Boilerplate Project
 
-This repository is an **unofficial** boilerplate project for building [Singular.live](https://www.singular.live) widgets using Node.js and Webpack. For more information and official documentation on building widgets in Singular, see: https://developer.singular.live/widget-sdk/widget-sdk/
+This repository is an **unofficial** boilerplate project for building [Singular.live](https://www.singular.live) widgets using Node.js and Webpack. For more information and official documentation on building widgets in Singular, see: https://developer.singular.live/software-development-kits/widget-sdk
 
 ```bash
 git clone https://github.com/gwzn/singularwidget-webpack-boilerplate.git
